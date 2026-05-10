@@ -1,5 +1,4 @@
-# Billflow
-Smart invoice and planner management application
+
 # BillFlow
 
 BillFlow is a smart invoice and planner management application designed to simplify customer billing, product planning, and invoice generation.
